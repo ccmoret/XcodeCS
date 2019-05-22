@@ -1,5 +1,7 @@
 # Xcode Code Sense
 
+In Xcode this is called "Code Sense". These icons are also used in symbol navigation.<br/>
+
 - Red: macros:
 
 ![](images/macro.png '# = macro') : # = macro (think #define) <br/>
@@ -31,29 +33,29 @@
 
 - Blue: methods
 
-![](images/IBAction.png 'IBAction') : A = IBAction
-![](images/method.png 'method') : M = method
-![](images/property.png 'property') : P = property
+![](images/IBAction.png 'IBAction') : A = IBAction <br/>
+![](images/method.png 'method') : M = method <br/>
+![](images/property.png 'property') : P = property <br/>
 
 - Purple: aggregate types
 
-![](images/class.png 'class') : C = class (Objective-C, Swift or C++)
-![](images/classExtension.png 'class extension') : CE = class extension
-![](images/protocol.png 'protocol') : Pr = Objective-C/Swift protocol
-![](images/struct.png 'struct') : S = struct
-![](images/union.png 'union') : U = union
+![](images/class.png 'class') : C = class (Objective-C, Swift or C++) <br/>
+![](images/classExtension.png 'class extension') : CE = class extension <br/>
+![](images/protocol.png 'protocol') : Pr = Objective-C/Swift protocol <br/>
+![](images/struct.png 'struct') : S = struct <br/>
+![](images/union.png 'union') : U = union <br/>
 
 - Gray: snippets
 
-![](images/snippets.png 'snippets') : {} = snippets
+![](images/snippets.png 'snippets') : {} = snippets <br/>
 
 - Icons: #pragma mark or comments
 
-![](images/!!!.png 'Flag') : Flag = !!!: ...
-![](images/FIXME.png 'FIXME') : Patch = FIXME: ...
-![](images/???.png '???') : ? = ???: ...
-![](images/TODO.png 'TODO') : Items = TODO: ...
-![](images/MARK.png 'MARK') : List = MARK: ...
+![](images/!!!.png 'Flag') : Flag = !!!: ... <br/>
+![](images/FIXME.png 'FIXME') : Patch = FIXME: ... <br/>
+![](images/???.png '???') : ? = ???: ... <br/>
+![](images/TODO.png 'TODO') : Items = TODO: ... <br/>
+![](images/MARK.png 'MARK') : List = MARK: ... <br/>
 
 ### Copyright
 
